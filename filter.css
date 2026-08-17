@@ -1,0 +1,110 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+}
+
+.gallery img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.image1 {
+  filter: grayscale(100%);
+}
+
+.image2 {
+  filter: sepia(100%);
+}
+
+.image3 {
+  filter: blur(4px);
+}
+
+.image4 {
+  filter: brightness(150%);
+}
+
+.image5 {
+  filter: contrast(200%);
+}
+
+.image6 {
+  filter: hue-rotate(90deg);
+}
+
+.image7 {
+  filter: invert(100%);
+}
+
+.image8 {
+  filter: saturate(300%);
+}
+
+.image9 {
+  filter: opacity(50%);
+}
+
+.image10 {
+  filter: drop-shadow(5px 5px 5px black);
+}
+
+.image11 {
+  filter: sepia(60%) brightness(90%);
+}
+
+.image12 {
+  filter: grayscale(100%) contrast(200%);
+}
+
+.image13 {
+  filter: saturate(200%) brightness(110%);
+}
+
+.image14 {
+  filter: hue-rotate(180deg) contrast(150%);
+}
+
+.image15 {
+  filter: sepia(40%) saturate(140%);
+}
+
+.image16 {
+  filter: hue-rotate(120deg) saturate(120%);
+}
+
+.image17 {
+  filter: opacity(70%) contrast(85%);
+}
+
+.image18 {
+  filter: blur(2px) brightness(120%);
+}
+
+.image19 {
+  filter: invert(80%) grayscale(100%);
+}
+
+.image20 {
+  filter: saturate(250%) contrast(150%);
+}
