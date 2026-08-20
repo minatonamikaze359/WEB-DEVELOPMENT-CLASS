@@ -1,32 +1,25 @@
-How to Deploy and Customize Your Free AI Chatbot
-Deploying a custom AI chatbot can be done entirely for free in just a few clicks using pre-built web hosting tools—no advanced backend knowledge required. Follow this straightforward workflow to set up your chatbot, access the admin panel, and customize your AI's branding.
+🚀 HOW TO DEPLOY & CUSTOMIZE YOUR FREE AI CHATBOT 🚀
 
-Quick Deployment Steps
-Get the Source Code:
-Visit the repository link and copy the raw project code:
+Deploying your own AI chatbot is completely free and takes less than 2 minutes—no coding required! Follow these steps to host your bot, access your private admin panel, and customize your AI's branding.
 
-Source Code Repository: AI Chatbot Free Source Code
+📌 Step 1: Get the Source Code
+Visit the repository and copy the project code:
+🔗 https://luxurystudioweb.com/Codehub/index.php?user=minatotech&repo=AI-CHATBOT-FREE
 
-Host the Project:
-Navigate to the automated hosting page, paste the copied code, and launch your instance instantly:
+📌 Step 2: Host Your Project
+Paste the code into the free hosting tool to launch your instance:
+🔗 https://luxurystudioweb.com/host.php
 
-Free Hosting Tool: Luxury Studio Web Hosting
+⚙️ Admin Configuration Guide
 
-Admin Configuration Guide
-Once deployed, log into your admin dashboard to customize the chatbot's parameters and branding.
+Once hosted, log into your personal admin dashboard to customize your bot:
 
-Admin Credentials
-Username: admin
+• Username: admin
+• Password: Tamim5151@
 
-Password: Tamim5151@
+Customizable Settings:
+🔹 AI Name: Define your chatbot's identity.
+🔹 Owner Name: Display your creator/owner details.
+🔹 WhatsApp Channel URL: Link your official community or support channel.
 
-Customizable Parameters
-After logging in, access the Custom Configuration section to tailor the following settings:
-
-AI Name: Define the displayed identity and persona of your chatbot.
-
-Owner Name: Set creator/owner details shown to end-users.
-
-WhatsApp Channel URL: Direct users to your official community or support channel.
-
-Save your updates to immediately apply the changes across your chatbot interface.
+Hit Save Configuration to apply your changes instantly! 🎉
