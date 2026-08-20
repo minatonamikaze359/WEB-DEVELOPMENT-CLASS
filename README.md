@@ -1,31 +1,32 @@
-🚀 Major Update Alert: CodeHub Just Got Bigger & Better! 🚀
+How to Deploy and Customize Your Free AI Chatbot
+Deploying a custom AI chatbot can be done entirely for free in just a few clicks using pre-built web hosting tools—no advanced backend knowledge required. Follow this straightforward workflow to set up your chatbot, access the admin panel, and customize your AI's branding.
 
-Hey everyone! We’ve just rolled out a massive batch of features and security upgrades to CodeHub. Here is a look at everything that’s new in this release:
+Quick Deployment Steps
+Get the Source Code:
+Visit the repository link and copy the raw project code:
 
-🔒 Private Repositories & Security
-Private vs. Public Toggle: You can now choose whether your project is 🌐 Public or 🔒 Private right from the repository creation screen.
+Source Code Repository: AI Chatbot Free Source Code
 
-Access Control Guardrails: Private repositories, files, and ZIP downloads are strictly hidden and locked down from unauthorized users.
+Host the Project:
+Navigate to the automated hosting page, paste the copied code, and launch your instance instantly:
 
-👥 Collaboration System
-Invite Team Members: Repository owners can now invite specific users as collaborators using their username.
+Free Hosting Tool: Luxury Studio Web Hosting
 
-Collaborator Permissions: Invited collaborators get full commit access to push and update files directly inside private or public repos.
+Admin Configuration Guide
+Once deployed, log into your admin dashboard to customize the chatbot's parameters and branding.
 
-Manage Access: Easily add or remove collaborators in real-time from the new sidebar control panel.
+Admin Credentials
+Username: admin
 
-💻 Developer Experience Improvements
-Syntax Highlighting & Line Numbers: Code blocks now feature full syntax highlighting (powered by Prism.js) and clean line numbers across multiple programming languages.
+Password: Tamim5151@
 
-1-Click Actions: Copy raw code files to your clipboard, copy direct share links, or download full repository snapshots as .ZIP archives.
+Customizable Parameters
+After logging in, access the Custom Configuration section to tailor the following settings:
 
-Live File Search: Filter through project files instantly with the integrated live file search bar.
+AI Name: Define the displayed identity and persona of your chatbot.
 
-🎨 Profile & Interface Enhancements
-Theme-Aware UI: Smooth dynamic styling that adapts seamlessly to Light and Dark mode.
+Owner Name: Set creator/owner details shown to end-users.
 
-Starred Repositories Tab: View all your saved and starred repositories right from your profile dashboard.
+WhatsApp Channel URL: Direct users to your official community or support channel.
 
-Activity & Feed Filtering: Home feeds and search indices now smartly filter content so private code remains private.
-
-⚡ Try out the new features now and let us know your feedback!
+Save your updates to immediately apply the changes across your chatbot interface.
