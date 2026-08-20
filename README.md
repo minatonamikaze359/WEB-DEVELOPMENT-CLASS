@@ -1,21 +1,31 @@
-# WEB-DVELOPMENT-CLASS
-🚀 Introducing CodeHub – Fast, Lightweight Code & Repository Hosting!
-Hey everyone! 👋
+🚀 Major Update Alert: CodeHub Just Got Bigger & Better! 🚀
 
-I just built and launched CodeHub, a clean, fast, GitHub-inspired platform designed to host, manage, and share your code repositories effortlessly.
+Hey everyone! We’ve just rolled out a massive batch of features and security upgrades to CodeHub. Here is a look at everything that’s new in this release:
 
-Whether you want to share code snippets, back up your projects, or distribute open-source files, CodeHub has you covered!
+🔒 Private Repositories & Security
+Private vs. Public Toggle: You can now choose whether your project is 🌐 Public or 🔒 Private right from the repository creation screen.
 
-✨ Key Features:
+Access Control Guardrails: Private repositories, files, and ZIP downloads are strictly hidden and locked down from unauthorized users.
 
-📁 Repository Creation: Organise and structure your files easily.
+👥 Collaboration System
+Invite Team Members: Repository owners can now invite specific users as collaborators using their username.
 
-🔗 Instant Sharing: Share direct links to your profile and repositories with anyone.
+Collaborator Permissions: Invited collaborators get full commit access to push and update files directly inside private or public repos.
 
-📦 One-Click Downloads: Download entire repositories instantly as standard ZIP archives.
+Manage Access: Easily add or remove collaborators in real-time from the new sidebar control panel.
 
-📋 Quick Raw Code Copy: View files directly in the browser and copy raw code with a single click.
+💻 Developer Experience Improvements
+Syntax Highlighting & Line Numbers: Code blocks now feature full syntax highlighting (powered by Prism.js) and clean line numbers across multiple programming languages.
 
-📰 Activity Feed: Discover newly created public projects from other developers on the platform.
+1-Click Actions: Copy raw code files to your clipboard, copy direct share links, or download full repository snapshots as .ZIP archives.
 
-🌐 Try it out now: https://luxurystudioweb.com/Codehub
+Live File Search: Filter through project files instantly with the integrated live file search bar.
+
+🎨 Profile & Interface Enhancements
+Theme-Aware UI: Smooth dynamic styling that adapts seamlessly to Light and Dark mode.
+
+Starred Repositories Tab: View all your saved and starred repositories right from your profile dashboard.
+
+Activity & Feed Filtering: Home feeds and search indices now smartly filter content so private code remains private.
+
+⚡ Try out the new features now and let us know your feedback!
